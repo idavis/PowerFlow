@@ -1,10 +1,9 @@
-﻿# PowerFlow
-#
-# Copyright (c) 2011 Ian Davis
-#
+﻿# 
+# Copyright (c) 2011, PowerFlow Project Contributors
+# 
 # Dual-licensed under the Apache License, Version 2.0, and the Microsoft Public License (Ms-PL).
 # See the file LICENSE.txt for details.
-#
+# 
 
 param([switch]$WhatIf = $false)
 
